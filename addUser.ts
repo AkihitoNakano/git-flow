@@ -3,5 +3,5 @@ const createUser = (name: string, email: string, password: string) => {
 }
 
 const createGithub = () => {
-  return `Hi Github!`
+  return `Fix CreateUser!`
 }
