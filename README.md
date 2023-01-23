@@ -16,9 +16,9 @@ git flow のテストです
 
 ### feature branch を作成する
 
-add-user というブランチを作成する
+- add-user というブランチを作成する
 
-develop ブランチからスタート
+- develop ブランチからスタート
 
 1. git pull をして最新の状態にする
 2. feature branch の作成
@@ -26,8 +26,8 @@ develop ブランチからスタート
 3. 作成できたか確認
    1. git branch
 
-develop ブランチが更新されれば常に feature ブランチに merge する
-develop 更新　 → develop git pull -> feature git merge develop
+- develop ブランチが更新されれば常に feature ブランチに merge する
+- develop 更新　 → develop/ git pull -> feature/ git merge develop
 
 ### リリースブランチを作成する
 
